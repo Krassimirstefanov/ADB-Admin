@@ -1,0 +1,2 @@
+# Optional dependency kept for compatibility with legacy XLSX export helpers.
+openpyxl>=3.1
